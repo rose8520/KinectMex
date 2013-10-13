@@ -1,0 +1,28 @@
+*** HOW TO BUILD Kinect MEX ***
+This folder contains source files to build mex files.
+
+1. Start up MATLAB and open build_KinectMex.m
+2. Change the path of OpenNI in build_KinectMex.m to the path where you installed OpenNI.
+3. Run build_KinectMex.m, then you'll get mex files
+
+README.txt tells details of Kinect MEX files, so that, 
+we expect that you'll see README.txt and get information about Kinect MEX.
+
+(README.txt is included in kinect-mex*.zip which is under 
+https://kinect-mex.svn.sourceforge.net/svnroot/kinect-mex/ver**/Bin/)
+ 
+------------------------------------------------------------------------------------
+
+MATLAB is registered trademarks of The MathWorks, Inc.
+
+Please see www.mathworks.com/trademarks for a list of additional trademarks.
+Other product or brand names may be trademarks or registered trademarks of their respective holders.
+
+Kinect is registered trademarks of Microsoft Corporation.
+
+OpenNI is available under GNU LESSER GENERAL PUBLIC LICENSE,
+Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+Please see http://www.openni.org/
+
+NITE and Prime Sensor, Copyright (C) PrimeSense Ltd 2010. All rights reserved.
+Please see http://www.primesense.com/
